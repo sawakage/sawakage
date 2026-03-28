@@ -1,17 +1,17 @@
 # sawakage
 
-Practical assistant AI for real-world visual tasks.  
-面向真实视觉场景的可落地辅助型 AI。
+Practical assistant AI for real-world anime-style visual workflows.  
+アニメ調ビジュアルの実運用ワークフローに向けた、実用的な支援AIを開発しています。
 
-Building perception-aware quality intelligence for image pipelines, with a focus on reliability and practical deployment.  
-正在构建以感知为导向的图像质量智能能力，强调可靠性与实际落地。
+Building perception-aware quality intelligence for image pipelines, focused on reliability and deployable tools for anime and illustration scenarios.  
+アニメ・イラスト領域において、信頼性と実装性を重視した、知覚整合型の画質インテリジェンスを構築しています。
 
-## Selected Projects | 项目
+## Selected Projects
 - [jpeg-qf-predictor](https://github.com/sawakage/jpeg-qf-predictor) — JPEG quality factor prediction.  
-  JPEG 质量因子预测。
+  JPEG品質係数（QF）推定モデル。
 
-## Contact | 联系方式
-- sawakage@outlook.com
+## Contact
+- your_email@example.com
 
-## Website | 个人网站
-- https://www.sawakage.space
+## Website
+- https://your-website.com
