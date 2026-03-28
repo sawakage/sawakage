@@ -1,16 +1,17 @@
-## Hi there 👋
+# sawakage
 
-<!--
-**sawakage/sawakage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Practical assistant AI for real-world visual tasks.  
+面向真实视觉场景的可落地辅助型 AI。
 
-Here are some ideas to get you started:
+Building perception-aware quality intelligence for image pipelines, with a focus on reliability and practical deployment.  
+正在构建以感知为导向的图像质量智能能力，强调可靠性与实际落地。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects | 项目
+- [jpeg-qf-predictor](https://github.com/sawakage/jpeg-qf-predictor) — JPEG quality factor prediction.  
+  JPEG 质量因子预测。
+
+## Contact | 联系方式
+- sawakage@outlook.com
+
+## Website | 个人网站
+- https://www.sawakage.space
