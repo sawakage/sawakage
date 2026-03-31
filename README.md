@@ -11,7 +11,7 @@ Building perception-aware quality intelligence for image pipelines, focused on r
   JPEG品質係数（QF）推定モデル。
 
 ## Contact
-- your_email@example.com
+- sawakage@outlook.com
 
 ## Website
-- https://your-website.com
+- https://www.sawakage.space
